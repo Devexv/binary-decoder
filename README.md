@@ -9,7 +9,7 @@ This is a simple console program written in C++ that decodes a binary string int
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/yourusername/binary-decoder.git
+    git clone https://github.com/Devexv/binary-decoder.git
     ```
 
 2. **Compile the Program:**
