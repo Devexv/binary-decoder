@@ -38,3 +38,19 @@ This is a simple console program written in C++ that decodes a binary string int
 
 ## Example
 
+
+
+
+
+## Requirements
+
+- C++ compiler (e.g., g++)
+- Standard C++ library
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
